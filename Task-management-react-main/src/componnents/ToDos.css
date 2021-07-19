@@ -1,0 +1,37 @@
+ul{
+    border: 1px solid black;
+    border-radius: 5px;
+   /* background-color: bisque;*/
+    margin-left: 10%;
+    margin-right: 20%;
+}
+#title{
+   margin-top: 2%;
+    margin-left: 10%; 
+    font-size: 30px;  
+    font-family: Permanent Marker;
+}
+button{
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+    padding-left: 4px;
+    
+}
+#aa{
+    width: 500px;
+    height: 100px;
+}
+ #addToDo{
+   display: flex;
+   flex-wrap: wrap;
+}
+#cancal,#save{
+    width: 55px;
+} 
+#plus{
+    font-family: Permanent Marker;
+    margin-left: 5px;
+    border: none;
+    background-color: white;
+}

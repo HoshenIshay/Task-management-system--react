@@ -1,0 +1,44 @@
+
+ li input[type=text]{
+  font-family:Courgette ;
+  font-size: 20px;
+  /* text-decoration:underline; */
+  border-bottom: 2px solid black;
+  margin-top: 15px;
+  border: none;
+ /* background-color: bisque;*/
+  border-bottom: solid 1px black;
+  width: 100%;
+  margin-right: 2%;
+  margin-bottom: 1%;
+  margin-left: 5px;
+}
+
+input[type=checkbox]{
+ 
+  width:20px;
+  height: 20px;
+  margin-top: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+
+}
+img{
+  width: 15px;
+  height: 15px;
+  margin-top: 18px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#singleToDo{
+  display: flex;
+
+  
+} 
+/* img{
+  width: 10px;
+  height: 10px;
+} */
+    
+  
